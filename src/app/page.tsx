@@ -1,11 +1,11 @@
 import React from 'react'
 
 //pages
-import Login from './pages/login'
+import Home from './pages/home'
 
 const Page = () => {
   return (
-    <Login />
+    <Home />
   )
 }
 

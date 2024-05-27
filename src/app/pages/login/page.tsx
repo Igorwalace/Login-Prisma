@@ -13,7 +13,7 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 
 //function
-import createAccount from '../_componentes/create-users'
+import createAccount from '@/app/_componentes/create-users'
 
 const Login = () => {
 
